@@ -168,7 +168,7 @@ Built using **Streamlit (`app.py`)**
 
 Deployed on Streamlit Cloud
 
-🔗 **Live App:** [https://contract-risk-analysis-eta.vercel.app/](https://contractriskanalysis-l3qvfbvsojfij8hek3khzk.streamlit.app/)
+🔗 **Live App:** [https://contract-risk-analysis-eta.vercel.app/](https://contract-risk-analysis-eta.vercel.app/)
 
 ---
 
